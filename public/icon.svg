@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="navyGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B1F3A" />
+      <stop offset="100%" stop-color="#173D7A" />
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#FCD34D" />
+      <stop offset="100%" stop-color="#D97706" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#navyGrad)" />
+  <circle cx="256" cy="256" r="176" fill="none" stroke="#FFFFFF" stroke-width="14" stroke-opacity="0.92" />
+  <path d="M134 252 C175 232, 218 240, 250 264 L250 342 C215 322, 175 318, 134 334 Z" fill="#FFFFFF" />
+  <path d="M378 252 C337 232, 294 240, 262 264 L262 342 C297 322, 337 318, 378 334 Z" fill="#E2E8F0" />
+  <path d="M256 126 C282 162, 294 192, 278 220 C268 236, 244 236, 234 220 C218 192, 230 162, 256 126 Z" fill="url(#goldGrad)" />
+  <polygon points="256,74 264,96 288,96 268,110 276,132 256,118 236,132 244,110 224,96 248,96" fill="#FCD34D" />
+</svg>

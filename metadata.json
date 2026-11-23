@@ -1,0 +1,6 @@
+{
+  "name": "প্রগতির পাঠশালা — Pragatir Pathshala",
+  "description": "Offline-first Android educational platform by Master Sourav Bhattacharjee for WBBSE, CBSE, ICSE (Classes 7–10), Diploma Engineering, and Government Jobs Preparation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
